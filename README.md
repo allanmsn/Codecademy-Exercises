@@ -1,2 +1,2 @@
-# codecademy-exercises
-Codecademy exercise screenshots
+# codecademy-javascript-exercises
+Codecademy Javascript exercise screenshots
